@@ -20,3 +20,9 @@ Actions
 Execution
   ↓
 Monitoring
+```
+
+> This repository is a fictional/educational product case study created
+> to demonstrate Product Management, Product Ownership, technical product
+> thinking, and AI product capabilities. It does not contain confidential
+> information or proprietary materials from any employer.
