@@ -2,6 +2,10 @@
 
 > Technical Product Management portfolio case study.
 
+## Purpose
+
+Introduces a fictional enterprise workflow automation platform and explains its business value, target users, core capabilities, architecture, example workflows, operational considerations, and product metrics.
+
 ## Overview
 
 This case study demonstrates how a scalable workflow automation platform can be designed for IT operations and service management teams.
