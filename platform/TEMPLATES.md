@@ -1,5 +1,8 @@
-```markdown
 # Workflow Templates
+
+## Purpose
+
+Defines the reusable workflow template capability. It explains template structure, default configuration, required user customization, publishing, adoption, and metrics for measuring template effectiveness.
 
 ## Goal
 
