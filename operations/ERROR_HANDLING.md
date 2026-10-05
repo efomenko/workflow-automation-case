@@ -1,5 +1,9 @@
 # Error Handling
 
+## Purpose
+
+Defines how different categories of errors should be handled. It distinguishes configuration errors, authentication failures, temporary external-system failures, and permanent errors to determine whether execution should stop, retry, or require user intervention.
+
 ## Principle
 
 Errors should be understandable to both users and technical operators.
