@@ -1,5 +1,9 @@
 # Edge Cases
 
+## Purpose
+
+Documents non-happy-path scenarios that could affect workflow reliability. It covers missing data, duplicate events, invalid configurations, authentication failures, API errors, version changes, and execution conflicts.
+
 ## Trigger Issues
 
 - Event contains missing properties
