@@ -1,5 +1,9 @@
 # Product Principles
 
+## Purpose
+
+Defines the principles guiding product and platform decisions. These include reusability, simplicity, observability, extensibility, reliability, and safe automation.
+
 ## 1. Automation Should Be Reusable
 
 Avoid solving each customer problem with a custom implementation.
