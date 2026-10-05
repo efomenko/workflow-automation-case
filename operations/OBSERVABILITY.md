@@ -1,5 +1,9 @@
 # Observability
 
+## Purpose
+
+Defines how workflow execution is made visible and understandable to users and operators. It covers execution status, logs, errors, metrics, troubleshooting information, and operational monitoring.
+
 ## Product Requirements
 
 Users should be able to answer:
