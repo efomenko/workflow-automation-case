@@ -1,5 +1,9 @@
 # Workflow Versioning
 
+## Purpose
+
+Defines how workflow versions are created, published, executed, and maintained. It explains how immutable published versions can provide predictable execution and prevent configuration changes from unexpectedly affecting running workflows.
+
 ## Problem
 
 Workflows evolve over time.
